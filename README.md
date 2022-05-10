@@ -10,6 +10,9 @@
 ![Build and deploy](https://github.com/yairm210/Unciv/workflows/Build%20and%20deploy/badge.svg)
 [![Discord Chat](https://img.shields.io/discord/586194543280390151.svg)](https://discord.gg/bjrB4Xw)
 
+## Forked by Vikrant to explore the making of this game and implement some improvements where I can see them
+This section to be restored to the original README
+
 
 
 # What is this?
